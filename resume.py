@@ -12,11 +12,12 @@ class Resume:
 
     def skills():
         return {
-                  'Web' : ['Django', 'Flask', 'CSS', 'JQuery', 'Ajax', 'Laravel', 'Git']
+                  'Web' : ['Django', 'Django-Rest-Framework', 'Flask', 'CSS', 'JQuery', 'Ajax', 'Laravel', 'Git']
                   'Python' : ['numpy', 'scipy', 'biopython', 'twisted', 'telebot', 'simplecv']
                   'Database' : ['SQL', 'PL/SQL']
+                  'Other' : ['BPMN', 'Restful WebServices']
                   'Open Source' : ['JDownloader-Team member', 'ArchLinux user\'n\'Activist']
-                  'Academic' : ['Machine Learning', 'Text Processing']
+                  'Academic' : ['Artificial Intelligence', 'Machine Learning', 'Text Processing', 'Image Processing']
         }
 
     def work_experience():
